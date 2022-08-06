@@ -1,4 +1,6 @@
 theme: jekyll-theme-minimal
 title: Han Haoran
-description: Something about me.
+description: University of Electronic Science and Technology.
 logo: /img.jpg
+show_downloads: true
+google_analytics: 

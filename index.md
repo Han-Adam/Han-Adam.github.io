@@ -9,7 +9,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - M.S, Information and Communication Engineering, School of Information and Communication Engineering, UESTC \[2021 - present\]
 - B.S, Electric and Electronic Engineering, Glasgow School, UESTC \[2017 - 2021\].
 
-### Publication
+### Journal Artical
+**Remark**: # means equal contribution; * means corresponding author.
+- **Haoran Han**, Jian Cheng*, Zhilong Xi and Bingcai Yao, "Cascade Flight Control of Quadrotors Based on Deep Reinforcement Learning," IEEE Robotics and Automation Letters, 2022.
+- **Haoran Han**#, Huan Wang#, Zhiliang Liu*, Jiayi Wang, "Intelligent vibration signal denoising method based on non-local fully convolutional neural network for rolling bearings", ISA Transactions, 2022.
 
 
 

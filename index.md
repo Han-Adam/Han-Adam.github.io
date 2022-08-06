@@ -1,4 +1,4 @@
-## About
+## Han Haoran
 
 I am currently purchasing ...
 
@@ -16,7 +16,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 2. **Haoran Han**#, Huan Wang#, Zhiliang Liu*, Jiayi Wang, "Intelligent vibration signal denoising method based on non-local fully convolutional neural network for rolling bearings", ISA Transactions, 2022.
 
 #### Conference Artical
-1. Ting Ai, Zhiliang Liu, Huan Wang*, **Haoran Han**, "Robust Vibration Signal Denoising and Diagnosis Using Encoder-Decoder Networks with Cross-layer Residual Connection", Global Reliability and Prognostics and Health Management, 2021.
+1. Ting Ai, Zhiliang Liu*, Huan Wang, **Haoran Han**, "Robust Vibration Signal Denoising and Diagnosis Using Encoder-Decoder Networks with Cross-layer Residual Connection", Global Reliability and Prognostics and Health Management, 2021.
 2. **Haoran Han**, Huan Wang, Zhiliang Liu*, Zixiao He, "Non-local Denoising Convolutional Neural Network for Rolling Bearing Vibration Signal", International Conference on Sensing, Diagnostics, Prognostics, and Control, 2020.
 3. **Haoran Han**, Huan Wang, Zhiliang Liu*, Yijia Hao, "An Intelligence Fault Diagnosis Approach for Rolling Bearings Based on Non-local Convolutional Neural Network", Asia-Pacific International Symposium on Advanced Reliability and Maintenance Modeling, 2020.
 4. Yijia Hao, Huan Wang, Zhiliang Liu*, **Haoran Han**, "Multi-scale CNN based on attention mechanism for rolling bearing fault diagnosis", Asia-Pacific International Symposium on Advanced Reliability and Maintenance Modeling, 2020.

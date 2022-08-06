@@ -1,12 +1,13 @@
-## Han Haoran
+## About
 
 I am currently purchasing ...
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Education
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 2017.9 to 2021.7, Electric and Electronic Engineering, Glasgow School, UESTC.
+- 2021.9 to now, Information and Communication Engineering, School of Information and Communication Engineering, UESTC.
 
 ```markdown
 Syntax highlighted code block

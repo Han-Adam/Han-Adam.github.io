@@ -2,5 +2,5 @@ theme: jekyll-theme-minimal
 title: Han Haoran
 description: University of Electronic Science and Technology.
 logo: /img.jpg
-show_downloads: true
+show_downloads: false
 google_analytics: 

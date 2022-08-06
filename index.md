@@ -1,6 +1,6 @@
 ## Han Haoran
 
-![](\img.jpg #pic_right)
+![](https://github.com/Han-Adam/Han-Adam.github.io/blob/main/img.jpg #pic_right)
 
 I am currently purchasing ...
 

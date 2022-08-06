@@ -1,7 +1,5 @@
 ## Han Haoran
-I am currently purchasing ...
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<img align="right" src="https://github.com/Han-Adam/Han-Adam.github.io/blob/main/img.jpg" style="zoom:50%" /> I am currently chasing M.S degree ... Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Education
 

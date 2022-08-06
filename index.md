@@ -6,8 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Education
 
-- 2017.9 to 2021.7, Electric and Electronic Engineering, Glasgow School, UESTC.
-- 2021.9 to now, Information and Communication Engineering, School of Information and Communication Engineering, UESTC.
+- 2017.9 to 2021.7, Glasgow School, UESTC.
+- 2021.9 to now, School of Information and Communication Engineering, UESTC.
 
 ```markdown
 Syntax highlighted code block

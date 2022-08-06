@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/Han-Adam/Han-Adam.github.io/blob/main/img.jpg" width="200px" />
+<img align="right" src="https://github.com/Han-Adam/Han-Adam.github.io/blob/main/img.jpg" width="200px">
 
 ## Han Haoran
 

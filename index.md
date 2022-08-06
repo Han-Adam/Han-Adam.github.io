@@ -1,5 +1,6 @@
+<img align="right" src="https://github.com/Han-Adam/Han-Adam.github.io/blob/main/img.jpg" width="200px" />
 ## Han Haoran
-<img align="right" src="https://github.com/Han-Adam/Han-Adam.github.io/blob/main/img.jpg" width="200px" /> I am currently chasing my master degree at UESTC. During my undergraduate life, my research intrest is deep learning and vibration signal processing. Currently ...
+I am currently chasing my master degree at UESTC. During my undergraduate life, my research intrest is deep learning and vibration signal processing. Currently ...
 
 ### Education
 

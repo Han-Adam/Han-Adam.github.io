@@ -19,7 +19,7 @@ When I was a Bachelor student, I studied the vibration signal processing with th
 ## Publication
 **markdown**: # means equal contribution; * means corresponding author.
 ### Journal Article
-1. **Haoran Han**; Jian Cheng*; Zhilong Xi; Bingcai Yao, "Intelligent vibration signal denoising method based on non-local fully convolutional neural network for rolling bearings", IEEE Robotics and Automation Letters, 2022. [[pdf](https://ieeexplore.ieee.org/document/9850366)]
+1. **Haoran Han**, Jian Cheng*, Zhilong Xi, Bingcai Yao, "Intelligent vibration signal denoising method based on non-local fully convolutional neural network for rolling bearings", IEEE Robotics and Automation Letters, 2022. [[pdf](https://ieeexplore.ieee.org/document/9850366)]
 2. **Haoran Han**#, Huan Wang#, Zhiliang Liu*, Jiayi Wang, "Intelligent vibration signal denoising method based on non-local fully convolutional neural network for rolling bearings", ISA Transactions, 2022. [[pdf](https://doi.org/10.1016/j.isatra.2021.04.022)]
 
 ### Conference Paper

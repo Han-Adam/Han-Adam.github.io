@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am Han Haoran (韩浩然 in Chinese). 
-Hi! I am Siteng Huang (黄思腾 in Chinese). I am a joint Ph.D. student of Zhejiang University and Westlake University, advised by Dr. Donglin Wang. And I am a member of Machine Intelligence Laboratory (MiLAB) in Westlake University, where I do my research work on machine learning and robot learning. Currently, I am also a research intern at DAMO Academy, Alibaba Group. I received my B.Eng. Degree from School of Computer Science, Wuhan University in 2019.
+I am Han Haoran (韩浩然 in Chinese). I am chasing my Master Degree at School of Information and Communication Engineering, University of Electric and Electronic Science and Technology of China (UESTC), supervised by Prof. [Cheng Jian] (https://faculty.uestc.edu.cn/cvmi/zh_CN/index.htm). Currently, my research intrest includes deep learning, reinforcement learning, and their application on unmanned aerial vehicle (UAV) control.
+
+When I was a Bachelor student, I studied the vibration signal processing with the guidence from I am guided by Prof. [Liu Zhiliang](https://www.smee.uestc.edu.cn/info/1177/8351.htm) and Doc. [Wang Huan](http://huanwang.online/).
 
 ## Education
-======
 - Master, Information and Communication Engineering, School of Information and Communication Engineering, UESTC, 2021-present.
 - Bachelor, Electric and Electronic Engineering, Glasgow School, UESTC, 2017-2021
 

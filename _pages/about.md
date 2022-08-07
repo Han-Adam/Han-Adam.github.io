@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Han Haoran (韩浩然 in Chinese). I am chasing my Master Degree at School of Information and Communication Engineering, University of Electric and Electronic Science and Technology of China (UESTC), supervised by Prof. [Cheng Jian](https://faculty.uestc.edu.cn/cvmi/zh_CN/index.htm). Currently, my research intrest includes deep learning, reinforcement learning, and their application on unmanned aerial vehicle (UAV) control.
+I am Han Haoran (韩浩然 in Chinese). I am chasing my Master Degree at School of Information and Communication Engineering, University of Electronic Science and Technology of China (UESTC), supervised by Prof. [Cheng Jian](https://faculty.uestc.edu.cn/cvmi/zh_CN/index.htm). Currently, my research intrest includes deep learning, reinforcement learning, and their application on unmanned aerial vehicle (UAV) control.
 
 When I was a Bachelor student, I studied the vibration signal processing with the guidence from Prof. [Liu Zhiliang](https://www.smee.uestc.edu.cn/info/1177/8351.htm) and Doc. [Wang Huan](http://huanwang.online/).
 

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Han Haoran"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

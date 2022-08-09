@@ -20,8 +20,8 @@ When I was a Bachelor student, I studied the vibration signal processing with th
 **markdown**: # means equal contribution; * means corresponding author.
 ### Journal Article
 1. **Haoran Han**, Jian Cheng*, Zhilong Xi, Bingcai Yao, "Cascade Flight Control of Quadrotors Based on
-Deep Reinforcement Learning", IEEE Robotics and Automation Letters, 2022. [[pdf](https://ieeexplore.ieee.org/document/9850366)]
-2. **Haoran Han**#, Huan Wang#, Zhiliang Liu*, Jiayi Wang, "Intelligent vibration signal denoising method based on non-local fully convolutional neural network for rolling bearings", ISA Transactions, 2022. [[pdf](https://doi.org/10.1016/j.isatra.2021.04.022)]
+Deep Reinforcement Learning", IEEE Robotics and Automation Letters, 2022. [[link](https://ieeexplore.ieee.org/document/9850366)]
+2. **Haoran Han**#, Huan Wang#, Zhiliang Liu*, Jiayi Wang, "Intelligent vibration signal denoising method based on non-local fully convolutional neural network for rolling bearings", ISA Transactions, 2022. [[link](https://doi.org/10.1016/j.isatra.2021.04.022)]
 
 ### Conference Paper
 1. Ting Ai, Zhiliang Liu*, Huan Wang, Haoran Han, "Robust Vibration Signal Denoising and Diagnosis Using Encoder-Decoder Networks with Cross-layer Residual Connection", PHM, 2021.

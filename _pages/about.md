@@ -17,7 +17,7 @@ When I was a Bachelor student, I studied the vibration signal processing with th
 - Bachelor, Electric and Electronic Engineering, Glasgow School, UESTC, 2017-2021
 
 ## Publication
-**Remarkd**: # means equal contribution; * means corresponding author.
+**Remark:** # means equal contribution; * means corresponding author.
 ### Journal Article
 1. **Haoran Han**, Jian Cheng*, Zhilong Xi, Bingcai Yao, "Cascade Flight Control of Quadrotors Based on
 Deep Reinforcement Learning", IEEE Robotics and Automation Letters, 2022. [[link](https://ieeexplore.ieee.org/document/9850366)]

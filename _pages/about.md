@@ -14,7 +14,7 @@ When I was a Bachelor student, I studied the vibration signal processing with th
 
 ## Education
 - Master, Information and Communication Engineering, School of Information and Communication Engineering, UESTC, 2021-present.
-- Bachelor with first-class honour degree, Electric and Electronic Engineering, Glasgow School, UESTC, 2017-2021.
+- Bachelor, First-class honour degree, Electric and Electronic Engineering, Glasgow School, UESTC, 2017-2021.
 
 ## Award
 - National scholarship, 2022.

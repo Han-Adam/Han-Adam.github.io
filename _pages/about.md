@@ -25,7 +25,7 @@ When I was a Bachelor student, I studied the vibration signal processing with th
 1. **Haoran Han**, Jian Cheng*, Zhilong Xi, Bingcai Yao, "Cascade Flight Control of Quadrotors Based on
 Deep Reinforcement Learning", IEEE Robotics and Automation Letters, 2022. [[link](https://ieeexplore.ieee.org/document/9850366)]
 2. **Haoran Han**#, Huan Wang#, Zhiliang Liu*, Jiayi Wang, "Intelligent vibration signal denoising method based on non-local fully convolutional neural network for rolling bearings", ISA Transactions, 2022. [[link](https://doi.org/10.1016/j.isatra.2021.04.022)]
-3. Haiwei Bai, Jian Cheng*, Yanzhou Su, Qi Wang, Haoran Han, Yijie Zhang, "Multi-Branch Adaptive Hard Region Mining Network for Urban Scene Parsing of High-Resolution Remote-Sensing Images", Remote Sensing, 2022. [[link](https://www.mdpi.com/2072-4292/14/21/5527/htm)]
+3. Haiwei Bai, Jian Cheng*, Yanzhou Su, Qi Wang, **Haoran Han**, Yijie Zhang, "Multi-Branch Adaptive Hard Region Mining Network for Urban Scene Parsing of High-Resolution Remote-Sensing Images", Remote Sensing, 2022. [[link](https://www.mdpi.com/2072-4292/14/21/5527/htm)]
 
 ### Conference Paper
 1. Ting Ai, Zhiliang Liu*, Huan Wang, **Haoran Han**, "Robust Vibration Signal Denoising and Diagnosis Using Encoder-Decoder Networks with Cross-layer Residual Connection", PHM, 2021.

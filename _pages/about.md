@@ -10,8 +10,6 @@ redirect_from:
 
 I am chasing my Master Degree at School of Information and Communication Engineering, University of Electronic Science and Technology of China (UESTC), supervised by Prof. [Cheng Jian](https://faculty.uestc.edu.cn/cvmi/zh_CN/index.htm). Currently, my research interest includes deep learning, reinforcement learning, and their application on unmanned aerial vehicle (UAV) control.
 
-When I was a Bachelor student, I studied the vibration signal processing with the guidence from Prof. [Liu Zhiliang](https://www.smee.uestc.edu.cn/info/1177/8351.htm) and Doc. [Wang Huan](http://huanwang.online/).
-
 ## Education
 - Master, Information and Communication Engineering, School of Information and Communication Engineering, UESTC, 2021-present.
 - Bachelor, First-class honour degree, Electric and Electronic Engineering, Glasgow School, UESTC, 2017-2021.

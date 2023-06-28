@@ -26,6 +26,7 @@ Deep Reinforcement Learning", IEEE Robotics and Automation Letters, 2022. [[link
 3. Haiwei Bai, Jian Cheng*, Yanzhou Su, Qi Wang, **Haoran Han**, Yijie Zhang, "Multi-Branch Adaptive Hard Region Mining Network for Urban Scene Parsing of High-Resolution Remote-Sensing Images", Remote Sensing, 2022. [[link](https://www.mdpi.com/2072-4292/14/21/5527/htm)]
 
 ### Conference Paper
+1. **Haoran Han**#, Zhilong Xi#, Jian Cheng, Maolong Lv*, "Obstacle Avoidance Based on Deep Reinforcement Learning and Artificial Potential Field", ICCAR, 2023. **Best Oral Presentation Award**
 1. Ting Ai, Zhiliang Liu*, Huan Wang, **Haoran Han**, "Robust Vibration Signal Denoising and Diagnosis Using Encoder-Decoder Networks with Cross-layer Residual Connection", PHM, 2021.
 2. Yijia Hao, Huan Wang, Zhiliang Liu*, **Haoran Han**, "Multi-scale CNN based on attention mechanism for rolling bearing fault diagnosis", APARM, 2020.
 3. **Haoran Han**, Huan Wang, Zhiliang Liu*, Yijia Hao, "An Intelligence Fault Diagnosis Approach for Rolling Bearings Based on Non-local Convolutional Neural Network", APARM, 2020.

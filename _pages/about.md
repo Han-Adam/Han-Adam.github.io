@@ -11,7 +11,8 @@ redirect_from:
 I am chasing my Master Degree at School of Information and Communication Engineering, University of Electronic Science and Technology of China (UESTC), supervised by Prof. [Cheng Jian](https://faculty.uestc.edu.cn/cvmi/zh_CN/index.htm). Currently, my research interest includes deep learning, reinforcement learning, and their application on unmanned aerial vehicle (UAV) control.
 
 ## Education
-- Master, Information and Communication Engineering, School of Information and Communication Engineering, UESTC, 2021-present.
+- PHD, Information and Communication Engineering, School of Information and Communication Engineering, UESTC, 2022-present.
+- Master, Information and Communication Engineering, School of Information and Communication Engineering, UESTC, 2021-2022.
 - Bachelor, First-class honour degree, Electric and Electronic Engineering, Glasgow School, UESTC, 2017-2021.
 
 ## Award

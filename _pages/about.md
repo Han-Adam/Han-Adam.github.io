@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am chasing my Master Degree at School of Information and Communication Engineering, University of Electronic Science and Technology of China (UESTC), supervised by Prof. [Cheng Jian](https://faculty.uestc.edu.cn/cvmi/zh_CN/index.htm). Currently, my research interest includes deep learning, reinforcement learning, and their application on unmanned aerial vehicle (UAV) control.
+I am chasing my PHD at School of Information and Communication Engineering, University of Electronic Science and Technology of China (UESTC), supervised by Prof. [Cheng Jian](https://faculty.uestc.edu.cn/cvmi/zh_CN/index.htm) and co-supervised by Prof. [Maolong Lv](https://scholar.google.com/citations?user=gj7A4lIAAAAJ&hl=zh-CN&oi=sra). Currently, my research interest includes Deep Learning, Reinforcement Learning, and Robotics.
 
 ## Education
 - PHD, Information and Communication Engineering, School of Information and Communication Engineering, UESTC, 2023-present.
@@ -16,11 +16,12 @@ I am chasing my Master Degree at School of Information and Communication Enginee
 - Bachelor, First-class honour degree, Electric and Electronic Engineering, Glasgow School, UESTC, 2017-2021.
 
 ## Award
-- National scholarship, 2022.
+- National scholarship for Master degree, 2022.
 
 ## Publication
 **Remark:** # means equal contribution; * means corresponding author.
 ### Journal Article
+1. **Haoran Han**, Jian Cheng*, Zhilong Xi, Maolong Lv, "Symmetric Actor–Critic Deep Reinforcement Learning for Cascade Quadrotor Flight Control", Neurocomputing, 2023. [[link](https://www.sciencedirect.com/science/article/pii/S0925231223009128)]
 1. **Haoran Han**, Jian Cheng*, Zhilong Xi, Bingcai Yao, "Cascade Flight Control of Quadrotors Based on
 Deep Reinforcement Learning", IEEE Robotics and Automation Letters, 2022. [[link](https://ieeexplore.ieee.org/document/9850366)]
 2. **Haoran Han**#, Huan Wang#, Zhiliang Liu*, Jiayi Wang, "Intelligent vibration signal denoising method based on non-local fully convolutional neural network for rolling bearings", ISA Transactions, 2022. [[link](https://doi.org/10.1016/j.isatra.2021.04.022)]

@@ -11,7 +11,7 @@ redirect_from:
 I am chasing my PHD at School of Information and Communication Engineering, University of Electronic Science and Technology of China (UESTC), supervised by Prof. [Cheng Jian](https://faculty.uestc.edu.cn/cvmi/zh_CN/index.htm) and co-supervised by Prof. [Maolong Lv](https://scholar.google.com/citations?user=gj7A4lIAAAAJ&hl=zh-CN&oi=sra). Currently, my research interest includes Deep Learning, Reinforcement Learning, and Robotics.
 
 ## Education
-- PHD, Information and Communication Engineering, School of Information and Communication Engineering, UESTC, 2023-present.
+- Doctor, Information and Communication Engineering, School of Information and Communication Engineering, UESTC, 2023-present.
 - Master, Information and Communication Engineering, School of Information and Communication Engineering, UESTC, 2021-2023.
 - Bachelor, First-class honour degree, Electric and Electronic Engineering, Glasgow School, UESTC, 2017-2021.
 

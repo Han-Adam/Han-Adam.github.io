@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Academic Homepage"
 title_separator          : "-"
 name                     : &name "Han Haoran"
-description              : &description "UESTC Master Student"
+description              : &description "UESTC Doctor Candidate"
 url                      : https://Han-Adam.github.io
 baseurl                  : 
 repository               : "Han-Adam/academicpages.github.io"

@@ -16,7 +16,7 @@ I am chasing my PHD at School of Information and Communication Engineering, Univ
 - Bachelor, First-class honour degree, Electric and Electronic Engineering, Glasgow School, UESTC, 2017-2021.
 
 ## Publication
-# means equal contribution; * means corresponding author.
+\# means equal contribution; * means corresponding author.
 ### Journal Article
 1. **Haoran Han**, Jian Cheng*, Zhilong Xi, Maolong Lv, "Symmetric Actor–Critic Deep Reinforcement Learning for Cascade Quadrotor Flight Control", Neurocomputing, 2023. [[link](https://www.sciencedirect.com/science/article/pii/S0925231223009128)]
 1. **Haoran Han**, Jian Cheng*, Zhilong Xi, Bingcai Yao, "Cascade Flight Control of Quadrotors Based on

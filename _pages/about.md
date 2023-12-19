@@ -25,7 +25,7 @@ Deep Reinforcement Learning", IEEE Robotics and Automation Letters, 2022. [[link
 3. Haiwei Bai, Jian Cheng*, Yanzhou Su, Qi Wang, **Haoran Han**, Yijie Zhang, "Multi-Branch Adaptive Hard Region Mining Network for Urban Scene Parsing of High-Resolution Remote-Sensing Images", Remote Sensing, 2022. [[link](https://www.mdpi.com/2072-4292/14/21/5527/htm)]
 
 ### Conference Paper
-1. Ruining Zhang#, **Haoran Han**#, Maolong Lv, Qisong Yang, Jian Cheng*, "Generalization Analysis of Policy Networks: An Example of Double-Integrator", AAAI, 2024.
+1. Ruining Zhang#, **Haoran Han**#, Maolong Lv, Qisong Yang, Jian Cheng*, "Generalization Analysis of Policy Networks: An Example of Double-Integrator", AAAI, 2024. [[link](https://arxiv.org/abs/2312.10472)]
 2. **Haoran Han**, Zhilong Xi, Maolong Lv, Jian Cheng*, "Acceleration of Formation Control Based on Hessian Matrix of Artificial Potential Field", CCC, 2023. [[link](https://ieeexplore.ieee.org/abstract/document/10240751)]
 3. Zhilong Xi#, **Haoran Han**#, Yirui Zhang, Jian Cheng*, "Autonomous Navigation of QUAVs Under 3D Environments Based on Hierarchical Reinforcement Learning", CCC, 2023. [[link](https://ieeexplore.ieee.org/document/10239903)]
 4. **Haoran Han**#, Zhilong Xi#, Jian Cheng, Maolong Lv*, "Obstacle Avoidance Based on Deep Reinforcement Learning and Artificial Potential Field", ICCAR, 2023. **Best Oral Presentation Award** [[link](https://ieeexplore.ieee.org/document/10151771)]

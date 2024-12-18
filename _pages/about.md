@@ -16,9 +16,7 @@ I am chasing my PHD at School of Information and Communication Engineering, Univ
 - Bachelor, First-class honour degree, Electric and Electronic Engineering, Glasgow School, UESTC, 2017-2021.
 
 ## Publication
-
-\# represents equal contribution.
-* represents corresponding author.
+\# represents equal contribution, * represents corresponding author.
 ### Journal Article
 1. Shuliang He#, **Haoran Han**#, Jian Cheng*, "Trajectory Tracking of QUAV Based on Cascade DRL with Feedforward Control", Neurocomputing, 2024. [[link](https://www.sciencedirect.com/science/article/pii/S0925231224018289)]
 2. Zhilong Xi#, **Haoran Han**#, Jian Cheng*, Maolong Lv, "Reducing Oscillations for Obstacle Avoidance in a Dense Environment Using Deep Reinforcement Learning and Time-Derivative of an Artificial Potential Field", Drones, 2024. [[link](https://www.mdpi.com/2504-446X/8/3/85)]

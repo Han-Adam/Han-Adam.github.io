@@ -27,7 +27,7 @@ Deep Reinforcement Learning", IEEE Robotics and Automation Letters, 2022. [[link
 6. Haiwei Bai, Jian Cheng*, Yanzhou Su, Qi Wang, **Haoran Han**, Yijie Zhang, "Multi-Branch Adaptive Hard Region Mining Network for Urban Scene Parsing of High-Resolution Remote-Sensing Images", Remote Sensing, 2022. [[link](https://www.mdpi.com/2072-4292/14/21/5527/htm)]
 
 ### Conference Paper
-1. Haoran Han; Jian Cheng; Maolong Lv, "Interpretable DRL-Based Maneuver Decision of UCAV Dogfight", IEEE CSMC, 2024. [[link](https://ieeexplore.ieee.org/document/10831270)]
+1. **Haoran Han**, Jian Cheng, Maolong Lv, "Interpretable DRL-Based Maneuver Decision of UCAV Dogfight", IEEE CSMC, 2024. [[link](https://ieeexplore.ieee.org/document/10831270)]
 2. Jingyi Li1#, **Haoran Han**#, Maolong Lv, Chenyang Sun, and Jian Cheng*, "Collision-Free Formation Control
  of Multi-agent System with Low Oscillation", CCSICC, 2024. [[link](https://link.springer.com/chapter/10.1007/978-981-97-3328-6_14)]
 3. Ruining Zhang#, **Haoran Han**#, Maolong Lv, Qisong Yang, Jian Cheng*, "Analyzing Generalization in Policy Networks: A Case Study with the Double-Integrator System", AAAI, 2024. [[link](https://ojs.aaai.org/index.php/AAAI/article/view/29623)]

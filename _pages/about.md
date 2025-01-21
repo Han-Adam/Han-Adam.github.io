@@ -27,13 +27,14 @@ Deep Reinforcement Learning", IEEE Robotics and Automation Letters, 2022. [[link
 6. Haiwei Bai, Jian Cheng*, Yanzhou Su, Qi Wang, **Haoran Han**, Yijie Zhang, "Multi-Branch Adaptive Hard Region Mining Network for Urban Scene Parsing of High-Resolution Remote-Sensing Images", Remote Sensing, 2022. [[link](https://www.mdpi.com/2072-4292/14/21/5527/htm)]
 
 ### Conference Paper
-1. Jingyi Li1#, **Haoran Han**#, Maolong Lv, Chenyang Sun, and Jian Cheng*, "Collision-Free Formation Control
+1. Haoran Han; Jian Cheng; Maolong Lv, "Interpretable DRL-Based Maneuver Decision of UCAV Dogfight", IEEE CSMC, 2024. [[link](https://ieeexplore.ieee.org/document/10831270)]
+2. Jingyi Li1#, **Haoran Han**#, Maolong Lv, Chenyang Sun, and Jian Cheng*, "Collision-Free Formation Control
  of Multi-agent System with Low Oscillation", CCSICC, 2024. [[link](https://link.springer.com/chapter/10.1007/978-981-97-3328-6_14)]
-2. Ruining Zhang#, **Haoran Han**#, Maolong Lv, Qisong Yang, Jian Cheng*, "Analyzing Generalization in Policy Networks: A Case Study with the Double-Integrator System", AAAI, 2024. [[link](https://ojs.aaai.org/index.php/AAAI/article/view/29623)]
-3. **Haoran Han**, Zhilong Xi, Maolong Lv, Jian Cheng*, "Acceleration of Formation Control Based on Hessian Matrix of Artificial Potential Field", CCC, 2023. [[link](https://ieeexplore.ieee.org/abstract/document/10240751)]
-4. Zhilong Xi#, **Haoran Han**#, Yirui Zhang, Jian Cheng*, "Autonomous Navigation of QUAVs Under 3D Environments Based on Hierarchical Reinforcement Learning", CCC, 2023. [[link](https://ieeexplore.ieee.org/document/10239903)]
-5. **Haoran Han**#, Zhilong Xi#, Jian Cheng, Maolong Lv*, "Obstacle Avoidance Based on Deep Reinforcement Learning and Artificial Potential Field", ICCAR, 2023. **Best Oral Presentation Award** [[link](https://ieeexplore.ieee.org/document/10151771)]
-6. Ting Ai, Zhiliang Liu*, Huan Wang, **Haoran Han**, "Robust Vibration Signal Denoising and Diagnosis Using Encoder-Decoder Networks with Cross-layer Residual Connection", PHM, 2021.
-7. Yijia Hao, Huan Wang, Zhiliang Liu*, **Haoran Han**, "Multi-scale CNN based on attention mechanism for rolling bearing fault diagnosis", APARM, 2020.
-8. **Haoran Han**, Huan Wang, Zhiliang Liu*, Yijia Hao, "An Intelligence Fault Diagnosis Approach for Rolling Bearings Based on Non-local Convolutional Neural Network", APARM, 2020.
-9. **Haoran Han**, Huan Wang, Zhiliang Liu*, Zixiao He, "Non-local Denoising Convolutional Neural Network for Rolling Bearing Vibration Signal", SDPC, 2020.
+3. Ruining Zhang#, **Haoran Han**#, Maolong Lv, Qisong Yang, Jian Cheng*, "Analyzing Generalization in Policy Networks: A Case Study with the Double-Integrator System", AAAI, 2024. [[link](https://ojs.aaai.org/index.php/AAAI/article/view/29623)]
+4. **Haoran Han**, Zhilong Xi, Maolong Lv, Jian Cheng*, "Acceleration of Formation Control Based on Hessian Matrix of Artificial Potential Field", CCC, 2023. [[link](https://ieeexplore.ieee.org/abstract/document/10240751)]
+5. Zhilong Xi#, **Haoran Han**#, Yirui Zhang, Jian Cheng*, "Autonomous Navigation of QUAVs Under 3D Environments Based on Hierarchical Reinforcement Learning", CCC, 2023. [[link](https://ieeexplore.ieee.org/document/10239903)]
+6. **Haoran Han**#, Zhilong Xi#, Jian Cheng, Maolong Lv*, "Obstacle Avoidance Based on Deep Reinforcement Learning and Artificial Potential Field", ICCAR, 2023. **Best Oral Presentation Award** [[link](https://ieeexplore.ieee.org/document/10151771)]
+7. Ting Ai, Zhiliang Liu*, Huan Wang, **Haoran Han**, "Robust Vibration Signal Denoising and Diagnosis Using Encoder-Decoder Networks with Cross-layer Residual Connection", PHM, 2021.
+8. Yijia Hao, Huan Wang, Zhiliang Liu*, **Haoran Han**, "Multi-scale CNN based on attention mechanism for rolling bearing fault diagnosis", APARM, 2020.
+9. **Haoran Han**, Huan Wang, Zhiliang Liu*, Yijia Hao, "An Intelligence Fault Diagnosis Approach for Rolling Bearings Based on Non-local Convolutional Neural Network", APARM, 2020.
+10. **Haoran Han**, Huan Wang, Zhiliang Liu*, Zixiao He, "Non-local Denoising Convolutional Neural Network for Rolling Bearing Vibration Signal", SDPC, 2020.

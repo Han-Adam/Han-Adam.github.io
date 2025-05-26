@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am chasing my PHD at School of Information and Communication Engineering, University of Electronic Science and Technology of China (UESTC), supervised by Prof. [Cheng Jian](https://faculty.uestc.edu.cn/cvmi/zh_CN/index.htm) and co-supervised by Prof. [Maolong Lv](https://scholar.google.com/citations?user=gj7A4lIAAAAJ&hl=zh-CN&oi=sra). Currently, my research interests include Deep Learning, Reinforcement Learning, and Robotics.
+I am chasing my PHD at School of Information and Communication Engineering, University of Electronic Science and Technology of China (UESTC), supervised by Prof. [Cheng Jian](https://faculty.uestc.edu.cn/cvmi/zh_CN/index.htm) and co-supervised by Prof. [Maolong Lv](https://scholar.google.com/citations?user=gj7A4lIAAAAJ&hl=zh-CN&oi=sra). Currently, my major research interests include Deep Learning, Reinforcement Learning, and Aerial Combat. Additionally, I am also interested in Control Theory.
 
 ## Education
 - Doctor, Information and Communication Engineering, School of Information and Communication Engineering, UESTC, 2023-present.
@@ -18,6 +18,7 @@ I am chasing my PHD at School of Information and Communication Engineering, Univ
 ## Publication
 \# represents equal contribution, * represents corresponding author.
 ### Journal Article
+1. **Haoran Han**, Jian Cheng\*, Maolong Lv\*, Haibin Duan, "Augmenting the Robustness of Tactical Maneuver Decision-Making in Unmanned Aerial Combat Vehicles during Dogfights via Prioritized Population Play with Diversified Partners",  IEEE Transactions on Aerospace and Electronic Systems, Accepted.
 1. **Haoran Han**, Jian Cheng\*, Maolong Lv, Choon Ki Ahn\*, " Enhancing Collision-Free Formation Control in Multiagent Systems: An Approach Based on Time-Derivative of Artificial Potential Functions", IEEE Transactions on Cybernetics, 2025. [[link](https://ieeexplore.ieee.org/document/10993499)]
 2. Yirui Zhang#, **Haoran Han**#, Jian Cheng*, "QUAV Flight Control Based on Axially Symmetric DRL", Neurocomputing, 2025. [[link](https://www.sciencedirect.com/science/article/pii/S0925231225003753)]
 3. Shuliang He#, **Haoran Han**#, Jian Cheng*, "Trajectory Tracking of QUAV Based on Cascade DRL with Feedforward Control", Neurocomputing, 2024. [[link](https://www.sciencedirect.com/science/article/pii/S0925231224018289)]

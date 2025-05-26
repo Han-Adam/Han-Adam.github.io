@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am chasing my PHD at School of Information and Communication Engineering, University of Electronic Science and Technology of China (UESTC), supervised by Prof. [Cheng Jian](https://faculty.uestc.edu.cn/cvmi/zh_CN/index.htm) and co-supervised by Prof. [Maolong Lv](https://scholar.google.com/citations?user=gj7A4lIAAAAJ&hl=zh-CN&oi=sra). Currently, my major research interests include Deep Learning, Reinforcement Learning, and Aerial Combat. Additionally, I am also interested in Control Theory.
+I am chasing my PHD at School of Information and Communication Engineering, University of Electronic Science and Technology of China (UESTC), supervised by Prof. [Cheng Jian](https://faculty.uestc.edu.cn/cvmi/zh_CN/index.htm) and co-supervised by Prof. [Maolong Lv](https://scholar.google.com/citations?user=gj7A4lIAAAAJ&hl=zh-CN&oi=sra). My research interests include Deep Reinforcement Learning, Aerial Combat, and Control Theory.
 
 ## Education
 - Doctor, Information and Communication Engineering, School of Information and Communication Engineering, UESTC, 2023-present.

@@ -19,15 +19,15 @@ I am chasing my PHD at School of Information and Communication Engineering, Univ
 \# represents equal contribution, * represents corresponding author.
 ### Journal Article
 1. **Haoran Han**, Jian Cheng\*, Maolong Lv\*, Haibin Duan, "Augmenting the Robustness of Tactical Maneuver Decision-Making in Unmanned Aerial Combat Vehicles during Dogfights via Prioritized Population Play with Diversified Partners",  IEEE Transactions on Aerospace and Electronic Systems, Accepted.
-1. **Haoran Han**, Jian Cheng\*, Maolong Lv, Choon Ki Ahn\*, " Enhancing Collision-Free Formation Control in Multiagent Systems: An Approach Based on Time-Derivative of Artificial Potential Functions", IEEE Transactions on Cybernetics, 2025. [[link](https://ieeexplore.ieee.org/document/10993499)]
-2. Yirui Zhang#, **Haoran Han**#, Jian Cheng*, "QUAV Flight Control Based on Axially Symmetric DRL", Neurocomputing, 2025. [[link](https://www.sciencedirect.com/science/article/pii/S0925231225003753)]
-3. Shuliang He#, **Haoran Han**#, Jian Cheng*, "Trajectory Tracking of QUAV Based on Cascade DRL with Feedforward Control", Neurocomputing, 2024. [[link](https://www.sciencedirect.com/science/article/pii/S0925231224018289)]
-4. Zhilong Xi#, **Haoran Han**#, Jian Cheng*, Maolong Lv, "Reducing Oscillations for Obstacle Avoidance in a Dense Environment Using Deep Reinforcement Learning and Time-Derivative of an Artificial Potential Field", Drones, 2024. [[link](https://www.mdpi.com/2504-446X/8/3/85)]
-5. **Haoran Han**, Jian Cheng*, Zhilong Xi, Maolong Lv, "Symmetric Actor–Critic Deep Reinforcement Learning for Cascade Quadrotor Flight Control", Neurocomputing, 2023. [[link](https://www.sciencedirect.com/science/article/pii/S0925231223009128)]
-6. **Haoran Han**, Jian Cheng*, Zhilong Xi, Bingcai Yao, "Cascade Flight Control of Quadrotors Based on
+2. **Haoran Han**, Jian Cheng\*, Maolong Lv, Choon Ki Ahn\*, " Enhancing Collision-Free Formation Control in Multiagent Systems: An Approach Based on Time-Derivative of Artificial Potential Functions", IEEE Transactions on Cybernetics, 2025. [[link](https://ieeexplore.ieee.org/document/10993499)]
+3. Yirui Zhang#, **Haoran Han**#, Jian Cheng*, "QUAV Flight Control Based on Axially Symmetric DRL", Neurocomputing, 2025. [[link](https://www.sciencedirect.com/science/article/pii/S0925231225003753)]
+4. Shuliang He#, **Haoran Han**#, Jian Cheng*, "Trajectory Tracking of QUAV Based on Cascade DRL with Feedforward Control", Neurocomputing, 2024. [[link](https://www.sciencedirect.com/science/article/pii/S0925231224018289)]
+5. Zhilong Xi#, **Haoran Han**#, Jian Cheng*, Maolong Lv, "Reducing Oscillations for Obstacle Avoidance in a Dense Environment Using Deep Reinforcement Learning and Time-Derivative of an Artificial Potential Field", Drones, 2024. [[link](https://www.mdpi.com/2504-446X/8/3/85)]
+6. **Haoran Han**, Jian Cheng*, Zhilong Xi, Maolong Lv, "Symmetric Actor–Critic Deep Reinforcement Learning for Cascade Quadrotor Flight Control", Neurocomputing, 2023. [[link](https://www.sciencedirect.com/science/article/pii/S0925231223009128)]
+7. **Haoran Han**, Jian Cheng*, Zhilong Xi, Bingcai Yao, "Cascade Flight Control of Quadrotors Based on
 Deep Reinforcement Learning", IEEE Robotics and Automation Letters, 2022. [[link](https://ieeexplore.ieee.org/document/9850366)]
-7. **Haoran Han**#, Huan Wang#, Zhiliang Liu*, Jiayi Wang, "Intelligent vibration signal denoising method based on non-local fully convolutional neural network for rolling bearings", ISA Transactions, 2022. [[link](https://doi.org/10.1016/j.isatra.2021.04.022)]
-8. Haiwei Bai, Jian Cheng*, Yanzhou Su, Qi Wang, **Haoran Han**, Yijie Zhang, "Multi-Branch Adaptive Hard Region Mining Network for Urban Scene Parsing of High-Resolution Remote-Sensing Images", Remote Sensing, 2022. [[link](https://www.mdpi.com/2072-4292/14/21/5527/htm)]
+8. **Haoran Han**#, Huan Wang#, Zhiliang Liu*, Jiayi Wang, "Intelligent vibration signal denoising method based on non-local fully convolutional neural network for rolling bearings", ISA Transactions, 2022. [[link](https://doi.org/10.1016/j.isatra.2021.04.022)]
+9. Haiwei Bai, Jian Cheng*, Yanzhou Su, Qi Wang, **Haoran Han**, Yijie Zhang, "Multi-Branch Adaptive Hard Region Mining Network for Urban Scene Parsing of High-Resolution Remote-Sensing Images", Remote Sensing, 2022. [[link](https://www.mdpi.com/2072-4292/14/21/5527/htm)]
 
 ### Conference Paper
 1. **Haoran Han**, Jian Cheng, Maolong Lv, "Interpretable DRL-Based Maneuver Decision of UCAV Dogfight", IEEE CSMC, 2024. [[link](https://ieeexplore.ieee.org/document/10831270)]
@@ -41,3 +41,6 @@ Deep Reinforcement Learning", IEEE Robotics and Automation Letters, 2022. [[link
 8. Yijia Hao, Huan Wang, Zhiliang Liu*, **Haoran Han**, "Multi-scale CNN based on attention mechanism for rolling bearing fault diagnosis", APARM, 2020.
 9. **Haoran Han**, Huan Wang, Zhiliang Liu*, Yijia Hao, "An Intelligence Fault Diagnosis Approach for Rolling Bearings Based on Non-local Convolutional Neural Network", APARM, 2020.
 10. **Haoran Han**, Huan Wang, Zhiliang Liu*, Zixiao He, "Non-local Denoising Convolutional Neural Network for Rolling Bearing Vibration Signal", SDPC, 2020.
+
+### Preprint Paper
+**Haoran Han**, "Solution of Nonhomogeneous Linear Recurrence Relations with Constant Coefficient based on Variation of Parameter". [[link](https://www.techrxiv.org/users/787272/articles/1283884-solution-of-nonhomogeneous-linear-recurrence-relations-with-constant-coefficient-based-on-variation-of-parameter)]

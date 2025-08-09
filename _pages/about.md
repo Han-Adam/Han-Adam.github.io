@@ -18,9 +18,9 @@ I am chasing my PHD at School of Information and Communication Engineering, Univ
 ## Publication
 \# represents equal contribution, * represents corresponding author.
 ### Journal Article
-1. **Haoran Han**, Jian Cheng\*, Maolong Lv\*, Zhilong Xi, "Autonomous Navigation of UAVs in Unknown 3D
+1. **Haoran Han**, Jian Cheng\*, Maolong Lv\*, Haibin Duan, "Augmenting the Robustness of Tactical Maneuver Decision-Making in Unmanned Aerial Combat Vehicles during Dogfights via Prioritized Population Play with Diversified Partners",  IEEE Transactions on Aerospace and Electronic Systems, 2025. [[link](https://ieeexplore.ieee.org/document/11029037)]
+2. **Haoran Han**, Jian Cheng\*, Maolong Lv\*, Zhilong Xi, "Autonomous Navigation of UAVs in Unknown 3D
  Environments using Deep Reinforcement Learning for Path Planning",  IEEE Transactions on Vehicular Technology, 2025. [[link](https://ieeexplore.ieee.org/document/11045211)]
-2. **Haoran Han**, Jian Cheng\*, Maolong Lv\*, Haibin Duan, "Augmenting the Robustness of Tactical Maneuver Decision-Making in Unmanned Aerial Combat Vehicles during Dogfights via Prioritized Population Play with Diversified Partners",  IEEE Transactions on Aerospace and Electronic Systems, 2025. [[link](https://ieeexplore.ieee.org/document/11029037)]
 3. **Haoran Han**, Jian Cheng\*, Maolong Lv, Choon Ki Ahn\*, " Enhancing Collision-Free Formation Control in Multiagent Systems: An Approach Based on Time-Derivative of Artificial Potential Functions", IEEE Transactions on Cybernetics, 2025. [[link](https://ieeexplore.ieee.org/document/10993499)]
 4. Yirui Zhang#, **Haoran Han**#, Jian Cheng*, "QUAV Flight Control Based on Axially Symmetric DRL", Neurocomputing, 2025. [[link](https://www.sciencedirect.com/science/article/pii/S0925231225003753)]
 5. Shuliang He#, **Haoran Han**#, Jian Cheng*, "Trajectory Tracking of QUAV Based on Cascade DRL with Feedforward Control", Neurocomputing, 2024. [[link](https://www.sciencedirect.com/science/article/pii/S0925231224018289)]

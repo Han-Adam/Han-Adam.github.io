@@ -11,7 +11,7 @@ title                    : "Academic Homepage"
 title_separator          : "-"
 name                     : &name "Haoran Han"
 description              : &description "UESTC Doctor Candidate"
-url                      : https://Haoran-Han.github.io
+url                      : https://han-adam.github.io/
 baseurl                  : 
 repository               : "Han-Adam/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -64,7 +64,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Han Haoran"
+  name             : "Haoran Han"
   avatar           : "profile.jpg"
   bio              : "Doctor Candidate, UESTC"
   location         : "Chengdu, China"

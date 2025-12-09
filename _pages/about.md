@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Han Haoran"
+title: "Haoran Han"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -13,7 +13,7 @@ I am chasing my PHD at School of Information and Communication Engineering, Univ
 ## Education
 - Doctor, Information and Communication Engineering, School of Information and Communication Engineering, UESTC, 2023-present.
 - Master, Information and Communication Engineering, School of Information and Communication Engineering, UESTC, 2021-2023.
-- Bachelor, First-class honour degree, Electric and Electronic Engineering, Glasgow School, UESTC, 2017-2021.
+- Bachelor, First-class honour degree, Electric and Electronic Engineering, Glasgow College, UESTC, 2017-2021.
 
 ## Publication
 \# represents equal contribution, * represents corresponding author.

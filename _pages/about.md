@@ -18,7 +18,7 @@ I am chasing my PHD at School of Information and Communication Engineering, Univ
 ## Publication
 \# represents equal contribution, * represents corresponding author.
 ### Journal Article
-1. **Haoran Han**, Jian Cheng\*, Maolong Lv\*, "Enhancing Scalability in MARL-Based BVR Engagement: A Role-Aware Transformer Approach with Adaptive Attention", IEEE Transactions on Aerospace and Electronic Systems, 2026. Accepted
+1. **Haoran Han**, Jian Cheng\*, Maolong Lv\*, "Enhancing Scalability in MARL-Based BVR Engagement: A Role-Aware Transformer Approach with Adaptive Attention", IEEE Transactions on Aerospace and Electronic Systems, 2026. [[link](https://ieeexplore.ieee.org/document/11547853)]
 2. **Haoran Han**, Jian Cheng\*, Maolong Lv\*, Li Mo, "Supervision-Enhanced Deep Reinforcement Learning for Hybrid Action in BVR Engagement",  IEEE Robotics and Automation Letters, 2026. [[link](https://ieeexplore.ieee.org/document/11282447)]
 3. **Haoran Han**, Jian Cheng\*, Maolong Lv\*, Haibin Duan, "Augmenting the Robustness of Tactical Maneuver Decision-Making in Unmanned Aerial Combat Vehicles during Dogfights via Prioritized Population Play with Diversified Partners",  IEEE Transactions on Aerospace and Electronic Systems, 2025. [[link](https://ieeexplore.ieee.org/document/11029037)]
 4. **Haoran Han**, Jian Cheng\*, Maolong Lv\*, Zhilong Xi, "Autonomous Navigation of UAVs in Unknown 3D

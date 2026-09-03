@@ -15,6 +15,11 @@ I am chasing my PHD at School of Information and Communication Engineering, Univ
 - Master, Information and Communication Engineering, School of Information and Communication Engineering, UESTC, 2021-2023.
 - Bachelor, First-class honour degree, Electric and Electronic Engineering, Glasgow College, UESTC, 2017-2021.
 
+## Honor
+- National scholarship for doctor candidates, UESTC, 2025.
+- National scholarship for master candidates, UESTC, 2022.
+
+
 ## Publication
 \# represents equal contribution, * represents corresponding author.
 ### Journal Article

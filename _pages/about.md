@@ -46,11 +46,11 @@ Deep Reinforcement Learning", IEEE Robotics and Automation Letters, 2022. [[link
 3. **Haoran Han**#, Zhilong Xi#, Jian Cheng*, Maolong Lv, "Obstacle Avoidance Based on Deep Reinforcement Learning and Artificial Potential Field", ICCAR, 2023. **Best Oral Presentation Award** [[link](https://ieeexplore.ieee.org/document/10151771)]
 4. **Haoran Han**, Huan Wang, Zhiliang Liu*, Yijia Hao, "An Intelligence Fault Diagnosis Approach for Rolling Bearings Based on Non-local Convolutional Neural Network", APARM, 2020.
 5. **Haoran Han**, Huan Wang, Zhiliang Liu*, Zixiao He, "Non-local Denoising Convolutional Neural Network for Rolling Bearing Vibration Signal", SDPC, 2020.
-6. Chenbo Ding, Le Ru, Maolong Lv*, **Haoran Han**, "Oscillation Mitigation for Multi-QUAV Navigation under Constrained Environment based on DRL and High-order Information of APF", ICAIS & ISAS, 2025. **Best Poster Award** [[link](https://ieeexplore.ieee.org/abstract/document/11052163)]
-7. Jingyi Li1#, **Haoran Han**#, Maolong Lv, Chenyang Sun, and Jian Cheng*, "Collision-Free Formation Control
+6. Jingyi Li1#, **Haoran Han**#, Maolong Lv, Chenyang Sun, and Jian Cheng*, "Collision-Free Formation Control
  of Multi-agent System with Low Oscillation", CCSICC, 2024. [[link](https://link.springer.com/chapter/10.1007/978-981-97-3328-6_14)]
-8. Ruining Zhang#, **Haoran Han**#, Maolong Lv, Qisong Yang, Jian Cheng*, "Analyzing Generalization in Policy Networks: A Case Study with the Double-Integrator System", AAAI, 2024. [[link](https://ojs.aaai.org/index.php/AAAI/article/view/29623)]
-9. Zhilong Xi#, **Haoran Han**#, Yirui Zhang, Jian Cheng*, "Autonomous Navigation of QUAVs Under 3D Environments Based on Hierarchical Reinforcement Learning", CCC, 2023. [[link](https://ieeexplore.ieee.org/document/10239903)]
+7. Ruining Zhang#, **Haoran Han**#, Maolong Lv, Qisong Yang, Jian Cheng*, "Analyzing Generalization in Policy Networks: A Case Study with the Double-Integrator System", AAAI, 2024. [[link](https://ojs.aaai.org/index.php/AAAI/article/view/29623)]
+8. Zhilong Xi#, **Haoran Han**#, Yirui Zhang, Jian Cheng*, "Autonomous Navigation of QUAVs Under 3D Environments Based on Hierarchical Reinforcement Learning", CCC, 2023. [[link](https://ieeexplore.ieee.org/document/10239903)]
+9. Chenbo Ding, Le Ru, Maolong Lv*, **Haoran Han**, "Oscillation Mitigation for Multi-QUAV Navigation under Constrained Environment based on DRL and High-order Information of APF", ICAIS & ISAS, 2025. **Best Poster Award** [[link](https://ieeexplore.ieee.org/abstract/document/11052163)]
 10. Ting Ai, Zhiliang Liu*, Huan Wang, **Haoran Han**, "Robust Vibration Signal Denoising and Diagnosis Using Encoder-Decoder Networks with Cross-layer Residual Connection", PHM, 2021.
 11. Yijia Hao, Huan Wang, Zhiliang Liu*, **Haoran Han**, "Multi-scale CNN based on attention mechanism for rolling bearing fault diagnosis", APARM, 2020.
 
